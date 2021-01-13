@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# REACT-Madlib
+* Part 1 Folder includes questions
+* Part 2 Folder includes addCommas function and test
+* In madlib, toggle between three types of sentences, then input person, verb, adjective, and color
+
+# Below is standard React Readme
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
