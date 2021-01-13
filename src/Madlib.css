@@ -1,0 +1,33 @@
+input {
+    display: block;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    display: block;
+}
+
+.beSeen {
+   visibility: hidden; 
+}
+
+.lineUp {
+    margin: 10px 10px;
+    display: inline;
+}
+
+.seenHappy {
+    visibility: hidden; 
+ }
+ .seenSad {
+    visibility: hidden; 
+ }
+ .seenWeird {
+    visibility: hidden; 
+ }
